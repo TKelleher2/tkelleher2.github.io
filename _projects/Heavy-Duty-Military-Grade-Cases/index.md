@@ -8,5 +8,5 @@ skills:
 - Laser Engraving
 - Waterjet cutting
 - Digital Printing
-main-image: /project.jpeg 
+main-image: /Case insert with section cut.png 
 ---
