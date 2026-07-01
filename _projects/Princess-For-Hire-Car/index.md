@@ -5,6 +5,7 @@ description:  Concept vinyl artwork for car to be a value add for independent bu
 skills: 
 - Generative AI
 - Graphic Design
+- Marketing
 main-image: /PricessForHirePumpkinWrap.png
 ---
 
