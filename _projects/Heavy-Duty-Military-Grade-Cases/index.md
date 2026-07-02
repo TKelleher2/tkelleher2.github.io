@@ -18,14 +18,12 @@ Working directly with production equipment gave me a strong appreciation of Desi
 
 Note: The model shown below is an illustrative example created to demonstrate typical machining features and does not represent any customer design or proprietary project.
 
-{% include image-gallery.html images="2DViewofTopsidePockets.png" height="400" %}
-
-
+{% include image-gallery.html images="FoamExplodedFromCase.png" height="400" %}
 
 
 
 ## Pockets to contain
-{% include image-gallery.html images="project2.jpg" height="400" %}
+{% include image-gallery.html images="2DViewofTopsidePockets.png" height="400" %}
 
 Positioning the largest component within the available case volume is typically the key driver for the overall insert layout. Once the primary item has been established, the location and orientation of accessory pockets can be optimised to maximise space utilisation, maintain structural integrity, and improve the user experience when packing and unpacking equipment.
 
