@@ -43,13 +43,13 @@ external-links:    # input only your own url slug. The icons with missing entrie
 
 # Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
 skills:
-  - category: 3D Modeling
+  - category: Software I'm Familiar With
     tools:
     - Onshape
-    - Certifed Solidworks Professional
+    - Certifed Solidworks Professional (CSWP)
     - Fusion 360 (Autodesk)
     - Affinity.studio
-  - category: Prototyping
+  - category: Prototyping Methods
     tools:
     - SLA
     - CNC
@@ -59,10 +59,14 @@ skills:
     - Water Jet Cutting
   - category: Design Standards / Practices
     tools:
-    - 
+    - Design for Manufacture (DfM)
+    - Design for Assembly (DfA)
+    - Feature Tree Organisation
+
   - category: Problem Solving / Risk Management
     tools:
     - Root Cause Analysis (e.g., 5 Whys, Fishbone Diagram)
+    - Material Selection
     # - DFMEA / PFMEA 
     # - Six Sigma methodologies
     # - Shain Red-X
